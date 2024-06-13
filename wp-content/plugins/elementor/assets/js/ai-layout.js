@@ -1,4 +1,4 @@
-/*! elementor - v3.21.0 - 20-05-2024 */
+/*! elementor - v3.22.0 - 19-05-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -800,6 +800,7 @@ var AiLayoutBehavior = /*#__PURE__*/function (_Marionette$Behavior) {
     key: "onAiButtonClick",
     value: function onAiButtonClick(e) {
       e.stopPropagation();
+      window.elementorAiCurrentContext = this.getOption('context');
       (0, _editorIntegration.renderLayoutApp)({
         parentContainer: elementor.getPreviewContainer(),
         mode: _config.MODE_LAYOUT,
@@ -13097,7 +13098,10 @@ var Module = /*#__PURE__*/function (_elementorModules$edi) {
     key: "registerAiLayoutBehavior",
     value: function registerAiLayoutBehavior(behaviors) {
       behaviors.ai = {
-        behaviorClass: _aiLayoutBehavior.default
+        behaviorClass: _aiLayoutBehavior.default,
+        context: {
+          documentType: window.elementor.documents.getCurrent().config.type
+        }
       };
       return behaviors;
     }

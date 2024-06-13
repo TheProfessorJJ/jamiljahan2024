@@ -1,4 +1,4 @@
-/*! elementor - v3.21.0 - 20-05-2024 */
+/*! elementor - v3.22.0 - 19-05-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -465,6 +465,9 @@ const MuiAccordion = {
             '&:not(.MuiAccordion-gutters) + .MuiAccordion-root:not(.MuiAccordion-gutters)': {
                 borderTop: 0,
             },
+            '&.Mui-disabled': {
+                backgroundColor: theme.palette.background.default,
+            },
         }),
     },
 };
@@ -850,11 +853,39 @@ const MuiSelect = {
     },
 };
 
+const MuiStepConnector = {
+    styleOverrides: {
+        root: ({ theme }) => ({
+            '& .MuiStepConnector-line': {
+                borderColor: theme.palette.divider,
+            },
+        }),
+    },
+};
+
 const MuiStepIcon = {
     styleOverrides: {
         root: ({ theme }) => ({
             '&:not(.Mui-active) .MuiStepIcon-text': {
                 fill: theme.palette.common.white,
+            },
+        }),
+    },
+};
+
+const MuiStepLabel = {
+    styleOverrides: {
+        root: () => ({
+            alignItems: 'flex-start',
+        }),
+    },
+};
+
+const MuiStepper = {
+    styleOverrides: {
+        root: () => ({
+            '& .MuiStepLabel-root': {
+                alignItems: 'center',
             },
         }),
     },
@@ -913,7 +944,10 @@ var components = {
     MuiMenuItem,
     MuiPaper,
     MuiSelect,
+    MuiStepConnector,
     MuiStepIcon,
+    MuiStepLabel,
+    MuiStepper,
     MuiToggleButton,
     MuiTooltip,
 };
@@ -925,6 +959,7 @@ const themeBaseConfig = {
             textTransform: 'none',
         },
         subtitle1: {
+            fontWeight: 500,
             lineHeight: 1.3,
         },
         subtitle2: {
@@ -1290,6 +1325,9 @@ const MuiAccordion = {
             '&:not(.MuiAccordion-gutters) + .MuiAccordion-root:not(.MuiAccordion-gutters)': {
                 borderTop: 0,
             },
+            '&.Mui-disabled': {
+                backgroundColor: theme.palette.background.default,
+            },
         }),
     },
 };
@@ -1675,11 +1713,39 @@ const MuiSelect = {
     },
 };
 
+const MuiStepConnector = {
+    styleOverrides: {
+        root: ({ theme }) => ({
+            '& .MuiStepConnector-line': {
+                borderColor: theme.palette.divider,
+            },
+        }),
+    },
+};
+
 const MuiStepIcon = {
     styleOverrides: {
         root: ({ theme }) => ({
             '&:not(.Mui-active) .MuiStepIcon-text': {
                 fill: theme.palette.common.white,
+            },
+        }),
+    },
+};
+
+const MuiStepLabel = {
+    styleOverrides: {
+        root: () => ({
+            alignItems: 'flex-start',
+        }),
+    },
+};
+
+const MuiStepper = {
+    styleOverrides: {
+        root: () => ({
+            '& .MuiStepLabel-root': {
+                alignItems: 'center',
             },
         }),
     },
@@ -1738,7 +1804,10 @@ var components = {
     MuiMenuItem,
     MuiPaper,
     MuiSelect,
+    MuiStepConnector,
     MuiStepIcon,
+    MuiStepLabel,
+    MuiStepper,
     MuiToggleButton,
     MuiTooltip,
 };
@@ -1750,6 +1819,7 @@ const themeBaseConfig = {
             textTransform: 'none',
         },
         subtitle1: {
+            fontWeight: 500,
             lineHeight: 1.3,
         },
         subtitle2: {
@@ -3044,6 +3114,9 @@ const MuiAccordion = {
             '&:not(.MuiAccordion-gutters) + .MuiAccordion-root:not(.MuiAccordion-gutters)': {
                 borderTop: 0,
             },
+            '&.Mui-disabled': {
+                backgroundColor: theme.palette.background.default,
+            },
         }),
     },
 };
@@ -3429,11 +3502,39 @@ const MuiSelect = {
     },
 };
 
+const MuiStepConnector = {
+    styleOverrides: {
+        root: ({ theme }) => ({
+            '& .MuiStepConnector-line': {
+                borderColor: theme.palette.divider,
+            },
+        }),
+    },
+};
+
 const MuiStepIcon = {
     styleOverrides: {
         root: ({ theme }) => ({
             '&:not(.Mui-active) .MuiStepIcon-text': {
                 fill: theme.palette.common.white,
+            },
+        }),
+    },
+};
+
+const MuiStepLabel = {
+    styleOverrides: {
+        root: () => ({
+            alignItems: 'flex-start',
+        }),
+    },
+};
+
+const MuiStepper = {
+    styleOverrides: {
+        root: () => ({
+            '& .MuiStepLabel-root': {
+                alignItems: 'center',
             },
         }),
     },
@@ -3492,7 +3593,10 @@ var components = {
     MuiMenuItem,
     MuiPaper,
     MuiSelect,
+    MuiStepConnector,
     MuiStepIcon,
+    MuiStepLabel,
+    MuiStepper,
     MuiToggleButton,
     MuiTooltip,
 };
@@ -3504,6 +3608,7 @@ const themeBaseConfig = {
             textTransform: 'none',
         },
         subtitle1: {
+            fontWeight: 500,
             lineHeight: 1.3,
         },
         subtitle2: {

@@ -1,4 +1,4 @@
-/*! elementor - v3.21.0 - 20-05-2024 */
+/*! elementor - v3.22.0 - 19-05-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["frontend"],{
 
@@ -103,6 +103,9 @@ module.exports = function ($) {
   }
   if (elementorFrontendConfig.experimentalFeatures['nested-elements']) {
     this.elementsHandlers['nested-accordion.default'] = () => Promise.resolve(/*! import() */).then(__webpack_require__.bind(__webpack_require__, /*! elementor/modules/nested-accordion/assets/js/frontend/handlers/nested-accordion */ "../modules/nested-accordion/assets/js/frontend/handlers/nested-accordion.js"));
+  }
+  if (elementorFrontendConfig.experimentalFeatures['conversion-center']) {
+    this.elementsHandlers['contact-buttons.default'] = () => Promise.resolve(/*! import() */).then(__webpack_require__.bind(__webpack_require__, /*! elementor/modules/conversion-center/assets/js/frontend/handlers/contact-buttons */ "../modules/conversion-center/assets/js/frontend/handlers/contact-buttons.js"));
   }
   const addGlobalHandlers = () => elementorFrontend.hooks.addAction('frontend/element_ready/global', _global.default);
   const addElementsHandlers = () => {
