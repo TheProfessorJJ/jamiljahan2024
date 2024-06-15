@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Finance &#8211; Jamil Jahangir Sheikh</title>
+	<atom:link href="/docs-category/finance/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Jun 2024 16:57:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/Blue-Business-Architecture-Design-Logo-Logos-150x150.png</url>
+	<title>Finance &#8211; Jamil Jahangir Sheikh</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Financial Reporting</title>
+		<link>/docs/financial-reporting/</link>
+					<comments>/docs/financial-reporting/#respond</comments>
+		
+		<dc:creator><![CDATA[Jamil]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 16:55:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=docs#038;p=321</guid>
+
+					<description><![CDATA[Financial reporting standards are critical for preparing accurate and informative financial reports. These standards ensure that the financial statements of a company provide the necessary information to investors, creditors, and other stakeholders, allowing them to make informed decisions. Understanding the underlying framework of financial reporting standards is essential for analysts to assess the valuation implications of financial statement elements and transactions. The Framework of Financial Reporting Standards Objective Financial reporting standards serve several key purposes: Standard-Setting Bodies and Regulatory Authorities Standard-Setting Bodies Standard-setting bodies are responsible for creating and maintaining financial reporting standards. They exist in virtually every national market and include: Regulatory Authorities Regulatory authorities recognize and enforce these standards. Examples include: These authorities have the legal power to enforce financial reporting requirements and exert control over entities participating in capital markets within their jurisdictions. While private sector standard-setting bodies can create accounting rules, these rules are only effective if regulators approve them. Regulatory authorities can also establish their own rules that override private sector decisions. The IASB Framework The IASB framework is designed to: Conceptual Framework Objectives Key Users of Financial Statements User Needs Users require information about a company&#8217;s: Information that helps users assess future net cash inflows includes: Qualitative Characteristics of Financial Reports Relevance Relevant information affects users&#8217; decisions, has predictive and confirmatory value, and must be material. Faithful Representation Information must be complete, neutral, and free from error. Comparability Financial reports should allow users to identify similarities and differences between items consistently over time and across entities. This characteristic ensures that users can compare financial information across different periods and entities to make informed decisions. Verifiability Verifiability ensures that different independent observers would agree that the information faithfully represents economic phenomena. This characteristic enhances the reliability of financial reports by providing assurance that reported information is accurate and unbiased. Timeliness Timeliness means that information is available to decision-makers before it loses its ability to influence decisions. Providing timely information ensures that users can make well-informed decisions based on the most current data. Understandability Clear and concise presentation enhances comprehension, making it accessible to users with reasonable knowledge of business and economics. Information should be presented in a way that is easy to understand without sacrificing complexity and detail. Major Financial Statements Overview Equity or Credit Analysis Financial Reports Types of Financial Statements Important Elements of Financial Statements Balance Sheet/ Financial Position By using the balance sheet and analyzing financial statements, analysts can address several key questions: Has the company&#8217;s liquidity improved? Is the company solvent? What is the company&#8217;s financial position relative to industry peers? Income Statement An income statement can also include other income and expenses, such as gains or losses from the sale of assets or investments. Analysts use this statement to assess profitability and understand how revenue is generated and expenses are managed. Consolidated Income Statement: Minority Interests (Non-controlling Interests): Allocation of Net Income: Earnings Per Share (EPS): Other Comprehensive Income (OCI): Statement of Changes in Equity and Cash Flow Statement: Cash Flow Statement:]]></description>
+										<content:encoded><![CDATA[
+<p>Financial reporting standards are critical for preparing accurate and informative financial reports. These standards ensure that the financial statements of a company provide the necessary information to investors, creditors, and other stakeholders, allowing them to make informed decisions. Understanding the underlying framework of financial reporting standards is essential for analysts to assess the valuation implications of financial statement elements and transactions.</p>
+
+
+
+<h2 class="wp-block-heading">The Framework of Financial Reporting Standards</h2>
+
+
+
+<p><strong>Objective</strong></p>
+
+
+
+<p>Financial reporting standards serve several key purposes:</p>
+
+
+
+<ul>
+<li><strong>Provide principles for preparing financial reports</strong>: These principles determine the types and amounts of information that must be included in financial statements. This allows users, such as investors and creditors, to make well-informed decisions based on accurate and relevant data.</li>
+
+
+
+<li><strong>Facilitate an understanding of the financial reporting framework</strong>: This broader framework helps analysts assess the valuation implications of financial statement elements and transactions. It goes beyond specific accounting rules and includes transactions that may represent new developments not specifically addressed by the standards.</li>
+
+
+
+<li><strong>Ensure consistency in judgment</strong>: Uncertainty in various aspects of transactions often requires accruals and estimates, necessitating judgment from preparers. Standards aim to limit the range of acceptable answers, increasing consistency across financial reports.</li>
+
+
+
+<li><strong>Develop comparable frameworks</strong>: The IASB and the US-based FASB have developed similar financial reporting frameworks that specify the overall objective and qualities of information to be provided.</li>
+
+
+
+<li><strong>Enhance valuation processes</strong>: Although not solely focused on asset valuation, financial reports provide crucial inputs for valuing a company or its issued securities. Understanding the financial reporting framework helps analysts evaluate reported information and use it appropriately when assessing a company’s financial performance.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Standard-Setting Bodies and Regulatory Authorities</h2>
+
+
+
+<p><strong>Standard-Setting Bodies</strong></p>
+
+
+
+<p>Standard-setting bodies are responsible for creating and maintaining financial reporting standards. They exist in virtually every national market and include:</p>
+
+
+
+<ul>
+<li><strong>International Accounting Standards Board (IASB)</strong></li>
+
+
+
+<li><strong>Financial Accounting Standards Board (FASB)</strong></li>
+
+
+
+<li><strong>Private Sector Organizations</strong></li>
+
+
+
+<li><strong>Self-Regulated Bodies</strong></li>
+</ul>
+
+
+
+<p><strong>Regulatory Authorities</strong></p>
+
+
+
+<p>Regulatory authorities recognize and enforce these standards. Examples include:</p>
+
+
+
+<ul>
+<li><strong>Accounting and Corporate Regulatory Authority (ACRA) in Singapore</strong></li>
+
+
+
+<li><strong>Securities and Exchange Commission (SEC) in the United States</strong></li>
+
+
+
+<li><strong>Securities and Exchange Commission of Brazil</strong></li>
+</ul>
+
+
+
+<p>These authorities have the legal power to enforce financial reporting requirements and exert control over entities participating in capital markets within their jurisdictions. While private sector standard-setting bodies can create accounting rules, these rules are only effective if regulators approve them. Regulatory authorities can also establish their own rules that override private sector decisions.</p>
+
+
+
+<h2 class="wp-block-heading">The IASB Framework</h2>
+
+
+
+<p>The IASB framework is designed to:</p>
+
+
+
+<ul>
+<li>Develop and promote the use and adoption of a single set of high-quality financial standards.</li>
+
+
+
+<li>Ensure these standards result in transparent, comparable, and decision-useful information while considering the needs of various entities in diverse economic settings.</li>
+
+
+
+<li>Promote the convergence of national accounting standards and IFRS.</li>
+</ul>
+
+
+
+<p><strong>Conceptual Framework Objectives</strong></p>
+
+
+
+<ol>
+<li><strong>Assist standard setters</strong>: Helps in developing and reviewing standards.</li>
+
+
+
+<li><strong>Aid preparers</strong>: Guides in applying standards and addressing issues not specifically covered by existing standards.</li>
+
+
+
+<li><strong>Assist auditors</strong>: Helps in forming opinions on financial statements.</li>
+
+
+
+<li><strong>Assist users</strong>: Aids in interpreting financial statement information.</li>
+</ol>
+
+
+
+<p><strong>Key Users of Financial Statements</strong></p>
+
+
+
+<ul>
+<li><strong>Investors</strong></li>
+
+
+
+<li><strong>Lenders</strong></li>
+
+
+
+<li><strong>Creditors</strong></li>
+</ul>
+
+
+
+<p><strong>User Needs</strong></p>
+
+
+
+<p>Users require information about a company&#8217;s:</p>
+
+
+
+<ul>
+<li><strong>Financial Position</strong>: Resources and financial obligations.</li>
+
+
+
+<li><strong>Financial Performance</strong>: How and why the company&#8217;s financial position changed over time.</li>
+
+
+
+<li><strong>Cash Position</strong>: How the company obtained and used cash.</li>
+</ul>
+
+
+
+<p>Information that helps users assess future net cash inflows includes:</p>
+
+
+
+<ol>
+<li><strong>Economic Resources (Assets)</strong>: What the entity owns that has value and can generate future benefits.</li>
+
+
+
+<li><strong>Claims Against the Entity (Liabilities and Equity)</strong>: Details about what the entity owes and the ownership interests in the entity.</li>
+
+
+
+<li><strong>Management and Governing Board Effectiveness</strong>: Insights into how well the company&#8217;s management and board have utilized resources to create value.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Qualitative Characteristics of Financial Reports</h2>
+
+
+
+<p><strong>Relevance</strong></p>
+
+
+
+<p>Relevant information affects users&#8217; decisions, has predictive and confirmatory value, and must be material.</p>
+
+
+
+<ul>
+<li><strong>Affects Users&#8217; Decisions</strong>: Information should influence economic decisions.</li>
+
+
+
+<li><strong>Predictive Value</strong>: Helps forecast future outcomes.</li>
+
+
+
+<li><strong>Confirmatory Value</strong>: Assists in evaluating past predictions or performance.</li>
+
+
+
+<li><strong>Materiality</strong>: Information is material if its omission or misstatement could influence users&#8217; decisions. Materiality depends on the nature and magnitude of the information&#8217;s impact.</li>
+</ul>
+
+
+
+<p><strong>Faithful Representation</strong></p>
+
+
+
+<p>Information must be complete, neutral, and free from error.</p>
+
+
+
+<ul>
+<li><strong>Complete</strong>: All necessary information is provided.</li>
+
+
+
+<li><strong>Neutral</strong>: Presented without bias.</li>
+
+
+
+<li><strong>Free from Error</strong>: There are no errors of commission (incorrect information) or omission (important information left out). The process used to gather and report the information was appropriate and followed correctly without errors.</li>
+</ul>
+
+
+
+<p><strong>Comparability</strong></p>
+
+
+
+<p>Financial reports should allow users to identify similarities and differences between items consistently over time and across entities. This characteristic ensures that users can compare financial information across different periods and entities to make informed decisions.</p>
+
+
+
+<p><strong>Verifiability</strong></p>
+
+
+
+<p>Verifiability ensures that different independent observers would agree that the information faithfully represents economic phenomena. This characteristic enhances the reliability of financial reports by providing assurance that reported information is accurate and unbiased.</p>
+
+
+
+<p><strong>Timeliness</strong></p>
+
+
+
+<p>Timeliness means that information is available to decision-makers before it loses its ability to influence decisions. Providing timely information ensures that users can make well-informed decisions based on the most current data.</p>
+
+
+
+<p><strong>Understandability</strong></p>
+
+
+
+<p>Clear and concise presentation enhances comprehension, making it accessible to users with reasonable knowledge of business and economics. Information should be presented in a way that is easy to understand without sacrificing complexity and detail.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Major Financial Statements Overview</strong></h3>
+
+
+
+<p><strong>Equity or Credit Analysis</strong></p>
+
+
+
+<ul>
+<li>Analysis integrates data on the economy, industry, and company, alongside information from comparable peers.</li>
+
+
+
+<li>External sources include economic statistics, industry reports, trade publications, and competitor databases.</li>
+
+
+
+<li>Core company information is sourced from its website, financial reports, press releases, investor calls, and webcasts.</li>
+</ul>
+
+
+
+<p><strong>Financial Reports</strong></p>
+
+
+
+<ul>
+<li>Issued at regular intervals.</li>
+
+
+
+<li>Comprise financial statements and supplementary disclosures.</li>
+
+
+
+<li>Reports are consolidated, incorporating subsidiary balances controlled by the parent company.</li>
+</ul>
+
+
+
+<p><strong>Types of Financial Statements</strong></p>
+
+
+
+<ul>
+<li><strong>Balance Sheet (BS):</strong> Provides a snapshot of financial condition at a specific date.</li>
+
+
+
+<li><strong>Statement of Comprehensive Income:</strong> Can be presented as a single statement or as two separate statements (income statement and statement of comprehensive income), beginning with profit or loss.</li>
+
+
+
+<li><strong>Changes in Equity:</strong> Details alterations in financial position over time.</li>
+
+
+
+<li><strong>Cash Flow Statement (CF):</strong> Tracks cash movements during the reporting period.</li>
+
+
+
+<li><strong>Notes/Footnotes:</strong> Provide additional context and details to financial statements.</li>
+
+
+
+<li><strong>Additional Information:</strong>
+<ul>
+<li><strong>Chairman&#8217;s Letter:</strong> Overview of company performance, strategy, and key achievements/challenges.</li>
+
+
+
+<li><strong>Management Discussion and Analysis (MD&amp;A):</strong> Insights into financial performance, operational results, key business drivers, and future prospects.</li>
+
+
+
+<li><strong>External Auditor&#8217;s Report:</strong> Assures accuracy and fairness of financial statements and reviews internal controls.</li>
+
+
+
+<li><strong>Governance Report:</strong> Details board composition, roles, governance practices, and regulatory compliance.</li>
+
+
+
+<li><strong>Corporate Responsibility Report:</strong> Covers initiatives and performance in areas like environmental sustainability, social responsibility, and stakeholder engagement.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Important Elements of Financial Statements</h2>
+
+
+
+<p><strong>Balance Sheet</strong>/ Financial Position</p>
+
+
+
+<ul>
+<li><strong>Assets</strong>: Owns, a right, controlled, have economic value, produce economic benefit. Ex. current (cash, inventory, receivables) and non-current (property, plant, equipment) assets.</li>
+
+
+
+<li><strong>Liabilities</strong>: Owes, the present obligation to transfer economic resources as a result of a past event. Ex. current (payables, short-term debt) and non-current (long-term debt, bonds payable).</li>
+
+
+
+<li><strong>Equity</strong>: Residual interest = (Assets &#8211; Liabilities)</li>
+</ul>
+
+
+
+<ul>
+<li>IFRS mandates that balance sheets distinguish between current and non-current assets and liabilities.</li>
+
+
+
+<li>There is no required order or format for how these items must be presented.</li>
+
+
+
+<li>Presentation order often follows traditional practices.</li>
+
+
+
+<li>Some companies arrange their balance sheets with non-current assets before current assets, owners&#8217; equity before liabilities, and non-current liabilities before current liabilities, following a sequence from least liquid to most liquid.</li>
+
+
+
+<li>In contrast, companies in the U.S., Australia, and Canada typically list assets and liabilities from most liquid to least liquid, starting with &#8220;Cash&#8221; or &#8220;Cash and Equivalents,&#8221; and placing equity after liabilities.</li>
+</ul>
+
+
+
+<p>By using the balance sheet and analyzing financial statements, analysts can address several key questions:</p>
+
+
+
+<p><strong>Has the company&#8217;s liquidity improved?</strong></p>
+
+
+
+<ul>
+<li>Analysts assess the company&#8217;s ability to meet short-term financial obligations by examining current assets like cash, receivables, and inventory relative to current liabilities. Improved liquidity is indicated by a higher ratio of current assets to current liabilities, suggesting a stronger capacity to cover short-term debts.</li>
+</ul>
+
+
+
+<p><strong>Is the company solvent?</strong></p>
+
+
+
+<ul>
+<li>Solvency analysis involves evaluating whether the company has sufficient assets (both current and non-current) to cover its liabilities. Analysts determine solvency by comparing total assets to total liabilities. If assets exceed liabilities, the company is considered solvent. Positive shareholder equity further supports solvency by confirming that assets surpass liabilities.</li>
+</ul>
+
+
+
+<p><strong>What is the company&#8217;s financial position relative to industry peers?</strong></p>
+
+
+
+<ul>
+<li>Comparative analysis involves benchmarking the company&#8217;s financial ratios (such as liquidity ratios, solvency ratios, and profitability ratios) against industry averages or competitors. This comparison helps gauge the company&#8217;s performance and financial health relative to its peers. Higher ratios indicate better financial health compared to industry norms, while lower ratios may signal potential weaknesses.</li>
+</ul>
+
+
+
+<p><strong>Income Statement</strong></p>
+
+
+
+<ul>
+<li>The income statement, also known as the profit and loss statement, shows a company&#8217;s financial performance over a specific period. It details:</li>
+
+
+
+<li><strong>Revenue</strong>: The income earned from the sale of goods or services.</li>
+
+
+
+<li><strong>Expenses</strong>: The costs incurred to generate revenue, including cost of goods sold, operating expenses, and income tax expenses. <strong>Decrease</strong>s in<strong> assets</strong> or<strong> increases</strong> in<strong> liabilities</strong>, excluding distributions to equity holders</li>
+
+
+
+<li><strong>Net Income</strong>: The profit remaining after all expenses have been deducted from revenue. This is often referred to as net profit or net earnings. <strong>Increases</strong> in <strong>assets</strong> or <strong>decreases</strong> in <strong>liabilities</strong>, excluding contributions from equity holders</li>
+</ul>
+
+
+
+<p>An income statement can also include other income and expenses, such as gains or losses from the sale of assets or investments. Analysts use this statement to assess profitability and understand how revenue is generated and expenses are managed.</p>
+
+
+
+<p><strong>Consolidated Income Statement:</strong></p>
+
+
+
+<ul>
+<li>Merges the financial results of a parent company with those of its subsidiaries into a single report.</li>
+
+
+
+<li>Each line item reflects the total from the equivalent line item on the subsidiary&#8217;s income statement.</li>
+
+
+
+<li>Internal transactions between the parent and subsidiary are omitted to avoid double counting.</li>
+</ul>
+
+
+
+<p><strong>Minority Interests (Non-controlling Interests):</strong></p>
+
+
+
+<ul>
+<li>If the parent company does not fully own a subsidiary, the remaining shares are held by minority interests or non-controlling interests.</li>
+
+
+
+<li>These shareholders are entitled to a portion of the subsidiary&#8217;s profits based on their ownership percentage.</li>
+</ul>
+
+
+
+<p><strong>Allocation of Net Income:</strong></p>
+
+
+
+<ul>
+<li>The parent company must separate net income attributable to its own shareholders from that attributable to minority interests.</li>
+
+
+
+<li>Income for minority interests is subtracted from the consolidated net income at the bottom of the income statement.</li>
+
+
+
+<li>This distinction ensures clarity in showing the profit distribution between the parent company&#8217;s shareholders and the minority shareholders.</li>
+</ul>
+
+
+
+<p><strong>Earnings Per Share (EPS):</strong></p>
+
+
+
+<ul>
+<li>Both basic and diluted EPS are shown on the income statement.</li>
+
+
+
+<li>EPS measures net income attributable to shareholders divided by the number of shares outstanding during the period.</li>
+
+
+
+<li>Basic EPS is determined using the weighted-average number of common shares actually outstanding during the period and the corresponding profit or loss.</li>
+
+
+
+<li>Diluted EPS considers the potential increase in shares if dilutive securities (like stock options or convertible bonds) are exercised or converted, adjusting the profit or loss accordingly.</li>
+</ul>
+
+
+
+<p><strong>Other Comprehensive Income (OCI):</strong></p>
+
+
+
+<ul>
+<li>Comprehensive income encompasses all changes affecting owners&#8217; equity, excluding transactions directly involving shareholders.</li>
+
+
+
+<li>It includes gains or losses from sources other than regular business operations, such as changes in investment market values or foreign currency translations.</li>
+
+
+
+<li>These changes are divided into two categories:
+<ul>
+<li>Items impacting net income, which reflects profits or losses from core business operations.</li>
+
+
+
+<li>Items classified under OCI, which include gains or losses impacting equity but not included in net income, like unrealized gains/losses on investments and certain pension adjustments.</li>
+</ul>
+</li>
+
+
+
+<li>Reporting comprehensive income typically begins with net income from the income statement followed by OCI components, ensuring transparent disclosure of all financial impacts on owners&#8217; equity.</li>
+</ul>
+
+
+
+<p><strong>Statement of Changes in Equity and Cash Flow Statement:</strong></p>
+
+
+
+<ul>
+<li>The statement of changes in equity tracks changes in owners’ investment in the business over time.</li>
+
+
+
+<li>It details for each equity component: beginning balance, increases, decreases, and ending balance.</li>
+
+
+
+<li>Components include:
+<ul>
+<li>Paid-in Capital: Increases with new equity issuances and decreases with stock repurchases.</li>
+
+
+
+<li>Retained Earnings: Cumulative profits retained in the company; increases with income (from income statement and OCI) and decreases with dividends.</li>
+
+
+
+<li>Non-controlling interests and reserves representing accumulated OCI items may be separately reported or included in retained earnings.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p><strong>Cash Flow Statement:</strong></p>
+
+
+
+<ul>
+<li>Essential for assessing a company’s long-term viability.</li>
+
+
+
+<li>Reveals sources and uses of cash, aiding evaluation of liquidity, solvency, and financial flexibility.</li>
+
+
+
+<li>Contrasts with net income, which can be influenced by accrual accounting and management policy.</li>
+
+
+
+<li>Direct method reports major cash receipts and payments (e.g., from customers, suppliers); however, indirect method aligns cash flows with income statement items, reflecting different perspectives but is more commonly used.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/docs/financial-reporting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Essential Excel Functions for Financial Modeling</title>
+		<link>/docs/essential-excel-functions-for-financial-modeling/</link>
+					<comments>/docs/essential-excel-functions-for-financial-modeling/#respond</comments>
+		
+		<dc:creator><![CDATA[Jamil]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 12:46:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=docs#038;p=293</guid>
+
+					<description><![CDATA[Master financial modeling in Excel with these 10 essential functions. Enhance your skills for better analysis and decision-making in finance.]]></description>
+										<content:encoded><![CDATA[
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINA19Y_Q&#x2F;OAhn8kWL-QK57XWkoif_wg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINA19Y_Q&#x2F;OAhn8kWL-QK57XWkoif_wg&#x2F;view?utm_content=DAGINA19Y_Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Essential Excel Functions for Financial Modeling</a> by Jamil Jahangir Sheikh
+]]></content:encoded>
+					
+					<wfw:commentRss>/docs/essential-excel-functions-for-financial-modeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

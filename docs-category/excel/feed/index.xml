@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Excel &#8211; Jamil Jahangir Sheikh</title>
+	<atom:link href="/docs-category/excel/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Jun 2024 12:47:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/Blue-Business-Architecture-Design-Logo-Logos-150x150.png</url>
+	<title>Excel &#8211; Jamil Jahangir Sheikh</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Essential Excel Functions for Financial Modeling</title>
+		<link>/docs/essential-excel-functions-for-financial-modeling/</link>
+					<comments>/docs/essential-excel-functions-for-financial-modeling/#respond</comments>
+		
+		<dc:creator><![CDATA[Jamil]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 12:46:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=docs#038;p=293</guid>
+
+					<description><![CDATA[Master financial modeling in Excel with these 10 essential functions. Enhance your skills for better analysis and decision-making in finance.]]></description>
+										<content:encoded><![CDATA[
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINA19Y_Q&#x2F;OAhn8kWL-QK57XWkoif_wg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINA19Y_Q&#x2F;OAhn8kWL-QK57XWkoif_wg&#x2F;view?utm_content=DAGINA19Y_Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Essential Excel Functions for Financial Modeling</a> by Jamil Jahangir Sheikh
+]]></content:encoded>
+					
+					<wfw:commentRss>/docs/essential-excel-functions-for-financial-modeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Excel Shortcuts</title>
+		<link>/docs/microsoft-excel-shortcuts/</link>
+					<comments>/docs/microsoft-excel-shortcuts/#respond</comments>
+		
+		<dc:creator><![CDATA[Jamil]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 12:38:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=docs#038;p=290</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div style="position: relative; width: 100%; height: 0; padding-top: 177.7778%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINBVFpQ8&#x2F;jmbVdMJmIgK977VYa9pZcQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGINBVFpQ8&#x2F;jmbVdMJmIgK977VYa9pZcQ&#x2F;view?utm_content=DAGINBVFpQ8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+]]></content:encoded>
+					
+					<wfw:commentRss>/docs/microsoft-excel-shortcuts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
