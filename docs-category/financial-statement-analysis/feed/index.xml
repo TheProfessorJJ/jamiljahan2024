@@ -12,7 +12,7 @@
 	<atom:link href="/docs-category/financial-statement-analysis/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 15 Jun 2024 17:36:44 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Jun 2024 18:22:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -273,7 +273,7 @@
 		<pubDate>Sat, 15 Jun 2024 17:34:25 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=docs#038;p=323</guid>
 
-					<description><![CDATA[Part 1: Financial Reporting 1. Objectives of Financial Statements 2. Enhancing Qualitative Characteristics of Financial Information 3. Constraints on Financial Statements 4. Assumptions of Financial Statements 5. Measurement of Financial Statement Elements 6. Qualitative Characteristics and Elements of Financial Statements 7. Role of Financial Reporting 8. Evaluation Tools in Financial Statements]]></description>
+					<description><![CDATA[Part 1: Financial Reporting 1. Objectives of Financial Statements 2. Enhancing Qualitative Characteristics of Financial Information 3. Constraints on Financial Statements 4. Assumptions of Financial Statements 5. Measurement of Financial Statement Elements 6. Qualitative Characteristics and Elements of Financial Statements 7. Role of Financial Reporting 8. Evaluation Tools in Financial Statements Part 2: Income Statement 1. Expenses on the Income Statement: Classification: 2. Expense Classification by Function: Examples: 3. Calculation of Gross Profit: Formula: 4. Common Size Income Statement: Definition: 5. Comprehensive Income Calculation: Components: 6. Other Comprehensive Income (OCI): Examples: 7. Items Classified as Other Comprehensive Income: Criteria:]]></description>
 										<content:encoded><![CDATA[
 <h2 class="wp-block-heading">Part 1: Financial Reporting</h2>
 
@@ -415,6 +415,172 @@
 
 
 <li><strong>Cash Flow Statement</strong>: Analyzes the sources and uses of cash flows during a period.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Part 2: Income Statement</h2>
+
+
+
+<h3 class="wp-block-heading">1. Expenses on the Income Statement:</h3>
+
+
+
+<p><strong>Classification:</strong></p>
+
+
+
+<ul>
+<li>Expenses on the income statement can be grouped by either nature or function.</li>
+
+
+
+<li><strong>Nature:</strong> Classifies expenses based on what they are (e.g., salaries, rent, depreciation).</li>
+
+
+
+<li><strong>Function:</strong> Classifies expenses based on their purpose or role in the operation (e.g., cost of goods sold, selling expenses, administrative expenses).</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Expense Classification by Function:</h3>
+
+
+
+<p><strong>Examples:</strong></p>
+
+
+
+<ul>
+<li><strong>Cost of Goods Sold (COGS):</strong> Represents the direct costs incurred in producing goods sold by the company.</li>
+
+
+
+<li><strong>Other Examples:</strong> Manufacturing costs, production overheads, and costs associated with sales and marketing.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">3. Calculation of Gross Profit:</h3>
+
+
+
+<p><strong>Formula:</strong></p>
+
+
+
+<ul>
+<li><strong>Gross Profit = Revenue &#8211; Cost of Goods Sold (COGS)</strong></li>
+
+
+
+<li>Example Calculation:
+<ul>
+<li>Revenue: $4,000,000</li>
+
+
+
+<li>COGS: $3,000,000</li>
+
+
+
+<li>Gross Profit = $4,000,000 &#8211; $3,000,000 = $1,000,000</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">4. Common Size Income Statement:</h3>
+
+
+
+<p><strong>Definition:</strong></p>
+
+
+
+<ul>
+<li>A common size income statement presents each line item as a percentage of revenue.</li>
+
+
+
+<li>Facilitates comparison across time periods (time-series analysis) and across companies (cross-sectional analysis).</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">5. Comprehensive Income Calculation:</h3>
+
+
+
+<p><strong>Components:</strong></p>
+
+
+
+<ul>
+<li><strong>Net Income:</strong> The profit earned during the period from primary business activities.</li>
+
+
+
+<li><strong>Other Comprehensive Income (OCI):</strong> Includes items that affect shareholders&#8217; equity but are not part of net income.</li>
+
+
+
+<li><strong>Example Calculation:</strong>
+<ul>
+<li>Net Income: $15 million</li>
+
+
+
+<li>OCI Components: Unrealized gain on available-for-sale securities ($5 million), Unrealized loss on derivatives accounted for as hedges (-$3 million), Foreign currency translation gain on consolidation ($2 million)</li>
+
+
+
+<li>Comprehensive Income = Net Income + OCI</li>
+
+
+
+<li>Comprehensive Income = $15 million + $4 million = $19 million</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">6. Other Comprehensive Income (OCI):</h3>
+
+
+
+<p><strong>Examples:</strong></p>
+
+
+
+<ul>
+<li><strong>Foreign Currency Translation Adjustment:</strong> Reflects gains or losses from translating financial statements of foreign subsidiaries.</li>
+
+
+
+<li><strong>Unrealized Gain on Available-for-Sale Securities:</strong> Unrealized gains or losses on investments classified as available-for-sale.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">7. Items Classified as Other Comprehensive Income:</h3>
+
+
+
+<p><strong>Criteria:</strong></p>
+
+
+
+<ul>
+<li>Items that affect shareholders&#8217; equity but are not included in net income.</li>
+
+
+
+<li>Examples: Foreign currency translation adjustments, unrealized gains or losses on available-for-sale securities.</li>
 </ul>
 ]]></content:encoded>
 					
