@@ -12,7 +12,7 @@
 	<atom:link href="/docs-tag/2024-cfa-level-1-notes/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 15 Jun 2024 17:36:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Jun 2024 14:17:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -685,111 +685,343 @@
 
 
 
-<h4 class="wp-block-heading">1. Accruals</h4>
+<h4 class="wp-block-heading"><strong>Accruals</strong></h4>
 
 
 
-<p>Accruals refer to revenues and expenses that have been recognized on the income statement before cash is exchanged. This concept is fundamental to accrual accounting, which matches revenues to the expenses incurred in generating them, rather than when payment is received or made.</p>
+<ul>
+<li>Accruals refer to revenues and expenses that have been recognized on the income statement before cash is exchanged. This concept is fundamental to accrual accounting, which matches revenues to the expenses incurred in generating them, rather than when payment is received or made.</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">2. Estimates</h4>
+<h4 class="wp-block-heading"><strong>Estimates</strong></h4>
 
 
 
-<p>Estimates involve the use of judgments and assumptions to determine values that are not directly observable. Examples include estimating the useful life of an asset for depreciation purposes or estimating the provision for bad debts.</p>
+<ul>
+<li>Estimates involve the use of judgments and assumptions to determine values that are not directly observable. Examples include estimating the useful life of an asset for depreciation purposes or estimating the provision for bad debts.</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">3. Judgment</h4>
+<h4 class="wp-block-heading"><strong>Judgment</strong></h4>
 
 
 
-<p>Judgment refers to the exercise of discretion or discernment in making decisions, particularly in the context of financial reporting. It involves the application of professional skepticism and consideration of relevant facts and circumstances.</p>
+<ul>
+<li>Judgment refers to the exercise of discretion or discernment in making decisions, particularly in the context of financial reporting. It involves the application of professional skepticism and consideration of relevant facts and circumstances.</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">4. Management Policy Decisions</h4>
+<h4 class="wp-block-heading"><strong>Management Policy Decisions</strong></h4>
 
 
 
-<p>Management policy decisions encompass the strategic choices made by a company&#8217;s management that impact financial reporting and operational outcomes. These decisions can include revenue recognition policies, inventory valuation methods, and capital expenditure policies.</p>
+<ul>
+<li>Management policy decisions encompass the strategic choices made by a company&#8217;s management that impact financial reporting and operational outcomes. These decisions can include revenue recognition policies, inventory valuation methods, and capital expenditure policies.</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">5. Consistency</h4>
+<h4 class="wp-block-heading"><strong>Consistency</strong></h4>
 
 
 
-<p>Consistency in financial reporting refers to the application of accounting policies and methods consistently from one period to another. This allows for comparability of financial statements over time and enhances the reliability of financial analysis.</p>
+<ul>
+<li>Consistency in financial reporting refers to the application of accounting policies and methods consistently from one period to another. This allows for comparability of financial statements over time and enhances the reliability of financial analysis.</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">6. Carrying Value</h4>
+<h4 class="wp-block-heading"><strong>Carrying Value</strong></h4>
 
 
 
-<p>Carrying value, also known as book value, refers to the value at which an asset or liability is recognized on the balance sheet. It is usually the original cost less accumulated depreciation or amortization, impairment losses, or depletion.</p>
+<ul>
+<li>Carrying value, also known as book value, refers to the value at which an asset or liability is recognized on the balance sheet. It is usually the original cost less accumulated depreciation or amortization, impairment losses, or depletion.</li>
 
 
 
-<h4 class="wp-block-heading">7. Fair Value</h4>
+<li><strong>Historical Cost &#8211; Acc. Depreciation</strong></li>
+</ul>
 
 
 
-<p>Fair value is the estimated price at which an asset or liability could be exchanged in an orderly transaction between knowledgeable and willing parties. Fair value measurements are used when assets and liabilities are reported at fair value on the balance sheet.</p>
+<h4 class="wp-block-heading"><strong>Recoverable Amount</strong></h4>
 
 
 
-<h4 class="wp-block-heading">8. Realizable (Settlement) Value</h4>
+<p>Higher of the (fair value &#8211; costs to sell) &amp; (value in use)</p>
 
 
 
-<p>Realizable value, also known as settlement value, is the amount that would be received from selling an asset or settling a liability in an orderly transaction. It is crucial in assessing the liquidity and solvency of a company.</p>
+<p>Where,</p>
 
 
 
-<h4 class="wp-block-heading">9. Accrual Accounting</h4>
+<ul>
+<li>Fair value  &#8211; Amount obtainable in an arm&#8217;s length transaction</li>
 
 
 
-<p>Accrual accounting is an accounting method that recognizes revenues and expenses when they are incurred, regardless of when cash transactions occur. It aims to provide a more accurate representation of a company&#8217;s financial position and performance.</p>
+<li>Value in use &#8211; Present value of future cash flows</li>
+</ul>
 
 
 
-<h4 class="wp-block-heading">10. Going Concern</h4>
+<h4 class="wp-block-heading"><strong>Impairment</strong></h4>
 
 
 
-<p>Going concern assumption assumes that a company will continue to operate in the foreseeable future. This assumption is fundamental in preparing financial statements under generally accepted accounting principles (GAAP).</p>
+<p>This occurs when the<strong> carrying value </strong>of an asset <strong>exceed</strong>s its <strong>recoverable amount.</strong> The impairment loss is calculated as the difference between the carrying amount and the recoverable amount.</p>
 
 
 
-<h4 class="wp-block-heading">11. Recognition of Elements</h4>
+<p>Impairment Loss = Carrying Value &#8211; Recoverable Amount</p>
 
 
 
-<p>Recognition of elements involves including an item in the balance sheet or income statement if it meets the definition of an element (asset, liability, equity, income, or expense) and satisfies specific recognition criteria related to relevance and faithful representation.</p>
+<p><strong>Impact on Financial Statements:</strong></p>
 
 
 
-<h4 class="wp-block-heading">12. Book Value</h4>
+<ul>
+<li><strong>Income Statement:</strong> Recognizes impairment loss as an <strong>expense</strong>, reducing net income for the period.</li>
 
 
 
-<p>Book value refers to the total amount of owner&#8217;s equity, also known as shareholders&#8217; equity, in a company. It represents the net assets of the company after deducting liabilities from assets.</p>
+<li><strong>Balance Sheet:</strong> <strong>Adjusts </strong>the carrying amount of the impaired asset to its recoverable amount, reducing <strong>total assets</strong>.</li>
 
 
 
-<h4 class="wp-block-heading">13. Minority Interests (Non-controlling Interests)</h4>
+<li><strong>Cash Flow Statement:</strong> This does not directly impact cash flows from operating activities but may affect <strong>investing activities</strong> if the <strong>impairment loss relates to non-current assets.</strong></li>
+</ul>
 
 
 
-<p>Minority interests, or non-controlling interests, refer to the ownership stake in a subsidiary that is not owned by the parent company. These shareholders have a claim on the subsidiary&#8217;s profits and assets proportionate to their ownership percentage.</p>
+<h4 class="wp-block-heading"><strong>Fair Value</strong></h4>
 
 
 
-<h4 class="wp-block-heading">Shares</h4>
+<ul>
+<li>Fair value is the estimated price at which an asset or liability could be exchanged in an orderly transaction between knowledgeable and willing parties. Fair value measurements are used when assets and liabilities are reported at fair value on the balance sheet.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Realizable (Settlement) Value</strong></h4>
+
+
+
+<ul>
+<li>Realizable value, also known as settlement value, is the amount that would be received from selling an asset or settling a liability in an orderly transaction. It is crucial in assessing the liquidity and solvency of a company.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Accrual Accounting</strong></h4>
+
+
+
+<ul>
+<li>Accrual accounting is an accounting method that recognizes revenues and expenses when they are incurred, regardless of when cash transactions occur. It aims to provide a more accurate representation of a company&#8217;s financial position and performance.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Going Concern</strong></h4>
+
+
+
+<ul>
+<li>Going concern assumption assumes that a company will continue to operate in the foreseeable future. This assumption is fundamental in preparing financial statements under generally accepted accounting principles (GAAP).</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Recognition of Elements</strong></h4>
+
+
+
+<ul>
+<li>Recognition of elements involves including an item in the balance sheet or income statement if it meets the definition of an element (asset, liability, equity, income, or expense) and satisfies specific recognition criteria related to relevance and faithful representation.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Book Value</strong></h4>
+
+
+
+<ul>
+<li>Book value refers to the total amount of owner&#8217;s equity, also known as shareholders&#8217; equity, in a company. It represents the net assets of the company after deducting liabilities from assets.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Minority Interests (Non-controlling Interests)</strong></h4>
+
+
+
+<ul>
+<li>Minority interests, or non-controlling interests, refer to the ownership stake in a subsidiary that is not owned by the parent company. These shareholders have a claim on the subsidiary&#8217;s profits and assets proportionate to their ownership percentage.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Allowance for Doubtful Accounts: (B/S item)</strong></h4>
+
+
+
+<p>Accounts for expected losses from uncollectible receivables. Increases in this allowance correspondingly raise Bad debt expense is an accounting provision that represents the amount of expected losses from customers who are unable to pay their debts. It is recorded in the income statement as an expense.. When a debt is written off, only the allowance and accounts receivable are reduced, leaving bad debt expense unchanged.</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Percentage of Uncollectable Receivable</strong></h4>
+
+
+
+<p>% Uncollectable = Allowance for doubtful accounts/ Gross accounts receivable</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Bad Debt Expense (I/S Item)</strong></h4>
+
+
+
+<p>When expected losses is added to allowance for doubtful accounts, the Bad debt expense is also increased by the same amount, it is an accounting provision that represents the amount of expected losses from customers who are unable to pay their debts. It is recorded in the income statement as an expense.</p>
+
+
+
+<h4 class="wp-block-heading">Concentration of Credit Risks</h4>
+
+
+
+<p>Reported in notes &#8211; List of all customers that owe money in terms of % of AR they represent</p>
+
+
+
+<p>Every time we add to Allowance for doubtful account, we add the same amount in Bad Debt Expense. So, in case of a write off, we only reduce the balance in the Allowance for doubtful account and in Accounts Receivable while Bad Dabt Expense remain untouched.</p>
+
+
+
+<p>For Analysts, if you see a % change in the Allowance for doubtful accounts, find out why &#8211; Is there a change in Risk Management (more insurance), credit quality (better economy), or management change in estimates (could be to manipulate reported earnings (Overestimate Collectability, Underestimate Bad Debt Expense or Vice Versa).</p>
+
+
+
+<h4 class="wp-block-heading">Revenue</h4>
+
+
+
+<p>Amount charged for delivery of goods in the ordinary activities of a business. A.K.A. Sales / Turnover / Top line</p>
+
+
+
+<p>Usually reported as Net Revenue ( After adjustments for Cash or volume discounts or other reductions in the revenue). Footnotes may mention of the items. </p>
+
+
+
+<p>For comparative analysis,&nbsp; analyst may need to reference information disclosed elsewhere in companies’ annual reports</p>
+
+
+
+<h4 class="wp-block-heading">Expenses</h4>
+
+
+
+<p> Outflows &#8211; Depletion of assets &#8211; insurance of liabilities</p>
+
+
+
+<h4 class="wp-block-heading">Net Income</h4>
+
+
+
+<p><strong>Definition:</strong> Net income, also referred to as net earnings, profit or loss, profit of the year, or bottom line, is the total profit of a company after all expenses, taxes, and costs have been deducted from total revenue. It represents the company&#8217;s financial performance over a specific period.</p>
+
+
+
+<p><strong>Components:</strong> Net income includes all gains and losses, even those not arising from ordinary business activities. For example, if a company sells surplus land that is not needed for operations, the transaction is reported as a gain or loss, calculated as the difference between the carrying value (the asset&#8217;s book value) and the selling price.</p>
+
+
+
+<p><strong>Disclosure:</strong> Details of such non-ordinary gains or losses are typically found in the financial statement disclosures, providing context and specifics about the nature and amount of these transactions.</p>
+
+
+
+<h4 class="wp-block-heading">Consolidation</h4>
+
+
+
+<p><strong>Definition:</strong> Consolidation is the accounting process where a parent company combines the financial statements of its subsidiaries into one comprehensive set of financial statements. This occurs when the parent company has control over the subsidiary, typically evidenced by owning more than 50% of the subsidiary&#8217;s voting shares.</p>
+
+
+
+<p><strong>Inclusion of Revenues and Expenses:</strong> When consolidating, the parent company includes all revenues and expenses of its subsidiaries in its consolidated financial statements, regardless of whether it owns less than 100% of the subsidiary. This ensures that the financial statements reflect the total economic activity and financial position of the combined entity.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Noncontrolling Interest</strong></h5>
+
+
+
+<p>Noncontrolling interest, also known as minority interest, represents the portion of the subsidiary&#8217;s income that is attributable to shareholders other than the parent company. This is the part of the subsidiary&#8217;s net income and equity that &#8220;belongs&#8221; to the minority shareholders and is reported separately in the consolidated financial statements.</p>
+
+
+
+<p>We use the whole of a subsidiary in the consolidated statement. To balance the Asset and liability with Equity, we add the noncontrolling interests in the equity (Portion of subsidiary not that is not owned by the parent).</p>
+
+
+
+<p><strong>Note For Analysts:</strong><br><strong>No Minority Interest:</strong> If there is <strong>goodwill</strong> on the balance sheet (Asset) but no minority interest in the equity, it means the parent company has fully acquired the subsidiary, owning 100% of its shares. Therefore, there are no minority shareholders.</p>
+
+
+
+<h4 class="wp-block-heading">Deferred Tax Assets</h4>
+
+
+
+<p>Arise from temporary differences where the tax paid exceeds the tax expense reported on the income statement. It happens when you prepaid more than what is shown in the Income Statement due to Tax reporting and financial reporting differences. It may be amortized over several periods for accounting purposes</p>
+
+
+
+<p>Represent future tax benefits due to overpayments or tax credits carried forward.</p>
+
+
+
+<h4 class="wp-block-heading">Accured Liability</h4>
+
+
+
+<p>Accrued liabilities are expenses that have been reported on a company’s income statement but have not yet been paid.</p>
+
+
+
+<p><strong>Example with Salary:</strong></p>
+
+
+
+<ul>
+<li>Suppose a company&#8217;s employees are paid on a bi-weekly basis, with the next payday falling after the end of the current accounting period.</li>
+
+
+
+<li>At the end of the accounting period (e.g., December 31st), the company has accrued salaries owed to employees for the last few days of December.</li>
+
+
+
+<li>Although the company hasn&#8217;t yet paid these salaries, it records them as an accrued liability on the balance sheet to reflect the amount owed.</li>
+
+
+
+<li>This accrued liability ensures that the company&#8217;s financial statements accurately reflect its obligations and expenses incurred during the reporting period, even if cash payment occurs later.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Shares</h2>
 
 
 
@@ -797,55 +1029,145 @@
 
 
 
-<h3 class="wp-block-heading">1. Common Shares (Ordinary Shares)</h3>
+<p><li><strong>Capital Contributed by Owners:</strong><ul><li>The funds invested by shareholders through the purchase of shares, forming part of shareholders&#8217; equity.</li></ul></li><li><strong>Authorized Shares:</strong><ul><li>The maximum number of shares the company can issue, providing future financing flexibility.</li></ul></li><li><strong>Issued Shares:</strong><ul><li>The shares sold to investors, representing distributed ownership and capital raised.</li></ul></li><li><strong>Outstanding Shares:</strong><ul><li>The issued shares currently held by investors, used for financial calculations, excluding repurchased (treasury) shares.</li></ul></li></p>
 
 
 
-<p>Common shares are the most basic form of ownership in a corporation. Holders of common shares have voting rights in corporate decisions, such as the election of directors and major business decisions. They also have the potential to receive dividends, although these are not guaranteed and can fluctuate based on the company&#8217;s profitability and management decisions. In the event of liquidation, common shareholders are entitled to a portion of the company&#8217;s assets after creditors, bondholders, and preferred shareholders are paid.</p>
+<h4 class="wp-block-heading"><strong>Common Shares (Ordinary Shares)</strong></h4>
 
 
 
-<h3 class="wp-block-heading">2. Preferred Shares</h3>
+<ul>
+<li>Common shares are the most basic form of ownership in a corporation. Holders of common shares have voting rights in corporate decisions, such as the election of directors and major business decisions. They also have the potential to receive dividends, although these are not guaranteed and can fluctuate based on the company&#8217;s profitability and management decisions. In the event of liquidation, common shareholders are entitled to a portion of the company&#8217;s assets after creditors, bondholders, and preferred shareholders are paid.</li>
+</ul>
 
 
 
-<p>Preferred shares are a class of ownership that typically does not carry voting rights but has a priority claim on dividends and assets over common shares. Preferred shareholders receive fixed dividends, which are often specified as a percentage of the share&#8217;s par value or as a fixed dollar amount. These dividends must be paid before any dividends can be distributed to common shareholders. In the event of liquidation, preferred shareholders have a priority claim on the company&#8217;s assets over common shareholders but are subordinate to creditors.</p>
+<h4 class="wp-block-heading"><strong>Preferred Shares</strong></h4>
 
 
 
-<h3 class="wp-block-heading">3. Redeemable Shares</h3>
+<ul>
+<li>Preferred shares are a class of ownership that typically does not carry voting rights but has a priority claim on dividends and assets over common shares. Preferred shareholders receive fixed dividends, which are often specified as a percentage of the share&#8217;s par value or as a fixed dollar amount. These dividends must be paid before any dividends can be distributed to common shareholders. In the event of liquidation, preferred shareholders have a priority claim on the company&#8217;s assets over common shareholders but are subordinate to creditors.</li>
+</ul>
 
 
 
-<p>Redeemable shares are shares that the issuer can buy back from shareholders at a predetermined price and time. These shares provide flexibility to the issuing company by allowing them to manage their capital structure effectively. The terms of redemption are typically outlined in the company&#8217;s articles of incorporation or shareholder agreements.</p>
+<h4 class="wp-block-heading"><strong>Redeemable Shares</strong></h4>
 
 
 
-<h3 class="wp-block-heading">4. Treasury Shares</h3>
+<ul>
+<li>Redeemable shares are shares that the issuer can buy back from shareholders at a predetermined price and time. These shares provide flexibility to the issuing company by allowing them to manage their capital structure effectively. The terms of redemption are typically outlined in the company&#8217;s articles of incorporation or shareholder agreements.</li>
+</ul>
 
 
 
-<p>Treasury shares are shares that have been repurchased by the issuing company and are held in its treasury. These shares do not have voting rights or receive dividends while held by the company. Treasury shares can be reissued or retired depending on the company&#8217;s capital needs and strategic objectives.</p>
+<h4 class="wp-block-heading"><strong>Treasury Shares</strong></h4>
 
 
 
-<h3 class="wp-block-heading">5. Dual-class Shares</h3>
+<ul>
+<li>Treasury shares are shares that have been repurchased by the issuing company and are held in its treasury. These are shares that have been repurchased by the company but not canceled and can be reissued or retired depending on the company&#8217;s capital needs and strategic objectives.</li>
 
 
 
-<p>Dual-class shares refer to a structure where a company issues two classes of shares with different voting rights. Typically, one class (often Class A) has multiple votes per share, while the other class (often Class B) has fewer or no voting rights. This structure allows founders or insiders to maintain control over the company while raising capital through the sale of shares with limited voting rights to the public.</p>
+<li>Non-Voting / No Dividends.</li>
 
 
 
-<h3 class="wp-block-heading">6. Founder&#8217;s Shares</h3>
+<li>Share repurchases reduce the company’s cash (an asset). Shareholders’ equity is reduced because there are fewer shares outstanding and treasury stock is an offset to owners’ equity.</li>
+</ul>
 
 
 
-<p>Founder&#8217;s shares are shares typically issued to the founders of a company at its inception. These shares may have special rights or privileges, such as enhanced voting rights or preferential dividend treatment, to ensure that the founders retain control and benefit from the company&#8217;s success over the long term.</p>
+<p><strong>Share Repurchases Impact:</strong></p>
 
 
 
-<h3 class="wp-block-heading">Basic Earnings Per Share (EPS):</h3>
+<ul>
+<li>When a company repurchases its own shares from the market, it uses cash to buy back these shares.</li>
+
+
+
+<li>This reduces the company&#8217;s cash balance, which is categorized as an asset on the balance sheet.</li>
+
+
+
+<li>Additionally, the number of shares outstanding decreases because the company holds these repurchased shares as treasury stock.</li>
+</ul>
+
+
+
+<p><strong>Effect on Shareholders&#8217; Equity:</strong></p>
+
+
+
+<ul>
+<li>Shareholders&#8217; equity decreases because there are fewer outstanding shares.</li>
+
+
+
+<li>Treasury stock is subtracted from the total equity (owners&#8217; equity) on the balance sheet, acting as a contra-equity account.</li>
+
+
+
+<li>The reduction in shareholders&#8217; equity reflects the decrease in the company&#8217;s ownership interest held by shareholders due to the share repurchase.</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Reasons for Repurchasing Treasury Shares:</strong></h5>
+
+
+
+<ul>
+<li><strong>Shares Undervalued:</strong>
+<ul>
+<li>When a company believes its shares are undervalued in the market, it may repurchase its shares to signal confidence in the company&#8217;s prospects and potentially boost the share price. This can enhance shareholder value as the market perceives the buyback as a positive signal about the company&#8217;s future.</li>
+</ul>
+</li>
+
+
+
+<li><strong>To Fulfill Options:</strong>
+<ul>
+<li>Companies often repurchase shares to have a reserve of stock available to fulfill employee stock options and other equity compensation plans. By using treasury shares to meet these obligations, the company avoids issuing new shares, which can be more cost-effective and administratively simpler.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Limit Dilution:</strong>
+<ul>
+<li>When a company issues new shares, for example, to raise capital or grant stock options, the ownership percentage of existing shareholders is diluted. By repurchasing shares, the company can mitigate or offset this dilution, helping to maintain or increase the earnings per share (EPS) and the ownership stake of existing shareholders.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Dual-class Shares</strong></h4>
+
+
+
+<ul>
+<li>Dual-class shares refer to a structure where a company issues two classes of shares with different voting rights. Typically, one class (often Class A) has multiple votes per share, while the other class (often Class B) has fewer or no voting rights. This structure allows founders or insiders to maintain control over the company while raising capital through the sale of shares with limited voting rights to the public.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Founder&#8217;s Shares</strong></h4>
+
+
+
+<ul>
+<li>Founder&#8217;s shares are shares typically issued to the founders of a company at its inception. These shares may have special rights or privileges, such as enhanced voting rights or preferential dividend treatment, to ensure that the founders retain control and benefit from the company&#8217;s success over the long term.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading"><strong>Basic Earnings Per Share (EPS)</strong></h4>
 
 
 
@@ -858,33 +1180,11 @@
 
 
 
-<li><strong>Formula:</strong> Basic EPS = (Net Income &#8211; Preferred Dividends) / Weighted Average Number of Common Shares Outstanding
-<ul>
+<li><strong>Formula:</strong> Basic EPS = (Net Income &#8211; Preferred Dividends) / Weighted Average Number of Common Shares Outstanding</li>
+
+
+
 <li><strong>Example:</strong> If a company has a net income of $1,000,000 and 1,000,000 common shares outstanding, the basic EPS would be $1.00 ($1,000,000 / 1,000,000 shares).</li>
-</ul>
-</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading">Diluted Earnings Per Share (EPS):</h3>
-
-
-
-<ul>
-<li><strong>Definition:</strong> Diluted EPS adjusts the basic EPS calculation to include potential shares that could be issued through the exercise of stock options, warrants, convertible bonds, or other dilutive securities.</li>
-
-
-
-<li><strong>Calculation:</strong> It uses the diluted number of shares, which assumes all potential dilutive securities are converted or exercised.</li>
-
-
-
-<li><strong>Formula:</strong> Diluted EPS = (Net Income &#8211; Preferred Dividends) / Diluted Weighted Average Number of Common Shares Outstanding
-<ul>
-<li><strong>Example:</strong> If potential conversion of stock options and convertible bonds would add 100,000 shares to the previous example, the diluted EPS might be $0.91 ($1,000,000 / (1,000,000 + 100,000 shares)).</li>
-</ul>
-</li>
 </ul>
 
 
